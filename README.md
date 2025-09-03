@@ -1,4 +1,4 @@
-# Aurora AI Tech project developed by Aditi Gupta aims to controbute back to society by teaching ML courses
+# Aurora AI Tech
 
 # 🌌 Aurora AI Tech
 _Illuminating Minds · Empowering Businesses_  
