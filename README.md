@@ -5,7 +5,7 @@ _Illuminating Minds · Empowering Businesses_
 https://aurora-ai-tech-website.vercel.app/
 ![Aurora AI Tech Logo](logo.png)  
 
-Aurora AI Tech is an education-first AI initiative by **Aditi Gupta**, dedicated to contributing back to society through **Machine Learning, AI, and Data Science courses**, while also offering **AI-powered business solutions**.  
+
 
 ---
 
